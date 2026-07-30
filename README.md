@@ -10,7 +10,9 @@ The Credora Finance Credit Risk Analytics Platform is designed to assist financi
 
 The project includes an interactive Streamlit dashboard, machine learning model, data visualization, and credit risk analysis.
 
----
+## 🌐 Live Demo
+
+🔗 **Live Application:** https://olive-credora-finance.streamlit.app
 
 ## ✨ Features
 
